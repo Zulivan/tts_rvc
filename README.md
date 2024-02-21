@@ -1,6 +1,6 @@
 # TTS + RVC Project Archive
 
-## Disclaimer
+### Disclaimer
 
 This repository is an archive of a deleted repository named "Okiba TTS RVC"
 The original project was made by [litagin](https://github.com/litagin02).
@@ -16,6 +16,10 @@ To ensure the longevity and accessibility of the project, it has been archived h
 The TTS + RVC project remains available for reference and potential future development.
 
 Feel free to explore the code for insights into the TTS + RVC implementation.
+
+### Configuration
+
+To restrict the usage of the Text-to-Speech (TTS) + RVC (Random Variable Change) functionality, an environment variable named `APPROVAL` must be employed. Set the `APPROVAL` environment variable to an arbitrary password. This specific value is essential for initiating the inference process.
 
 ## Hugging face configuration
 
