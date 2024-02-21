@@ -19,8 +19,7 @@ Feel free to explore the code for insights into the TTS + RVC implementation.
 
 ## Hugging face configuration
 
----
-
+```yaml
 title: TTS plus RVC
 emoji: 🎙️
 colorFrom: red
@@ -29,5 +28,4 @@ sdk: gradio
 sdk_version: 3.47.1
 app_file: app.py
 pinned: false
-
----
+```
